@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "278780910565",
+    "firebase_url": "https://modul6-aldiros.firebaseio.com",
+    "project_id": "modul6-aldiros",
+    "storage_bucket": "modul6-aldiros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278780910565:android:a1aa48a1c0c08cbf",
+        "android_client_info": {
+          "package_name": "com.example.android.aldiros_1202154208_studycase6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278780910565-5a5buhnjs0hrr0nrcoufak7nm7a4ahek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.aldiros_1202154208_studycase6",
+            "certificate_hash": "0fdee1ee388edd6c5ac41701b53a596da44fe7d4"
+          }
+        },
+        {
+          "client_id": "278780910565-1mvc5oh73leph729j5fgb816a1oe7mkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeG1TnWkP_u5Q822w5wFqoCqRQwfrDZJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278780910565-1mvc5oh73leph729j5fgb816a1oe7mkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
